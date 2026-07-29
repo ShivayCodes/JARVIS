@@ -165,3 +165,6 @@ Desktop.ini
 cache/
 data/
 dataset_pool/
+# Database files
+jarvis_v6.db
+**/jarvis_v6.db
